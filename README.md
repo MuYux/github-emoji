@@ -10,7 +10,6 @@
 
 <p>
   <sub>Made with ❤︎ by
-    <a href="https://github.com/windiest">Winds</a> and
     <a href="https://github.com/Wscats">Wscats</a>
   </sub>
 </p>
@@ -28,7 +27,7 @@
 ## Installation(Git)
 
 克隆项目地址并下载（需要已安装[Git](https://git-scm.com/downloads)），[点击预览（移动端效果更佳）](https://wscats.github.io/github-emoji/public/index.html)
-```
+```js
 git clone https://github.com/Wscats/github-emoji.git
 ```
 定位到public文件夹，在浏览器打开index.html
@@ -41,11 +40,11 @@ file:///X:/文件目录地址/public/index.html
 ## Building
 
 通过`npm`安装本地服务第三方依赖模块（需要已安装[Node.js](https://nodejs.org/)），建议使用`cnpm`安装依赖的模块
-```
+```js
 npm install
 ```
 启动服务器（http://localhost:8080）
-```
+```js
 npm run dev
 ```
 ## Other
@@ -65,7 +64,7 @@ It will be displayed as :blush:
 
 So you can write code to submit information submitted when:
 
-```
+```js
 git commit –m 'commit some changes :blush:'
 ```
 
