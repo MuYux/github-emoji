@@ -23,8 +23,9 @@
 
 </div>
 
+<p><img src="demo.gif"></p>
 
-## Installation(Git)
+# Installation(Git)
 
 克隆项目地址并下载（需要已安装[Git](https://git-scm.com/downloads)），[点击预览（移动端效果更佳）](https://wscats.github.io/github-emoji/public/index.html)
 ```js
@@ -37,7 +38,7 @@ cd public
 file:///X:/文件目录地址/public/index.html
 ```
 
-## Building
+# Building
 
 通过`npm`安装本地服务第三方依赖模块（需要已安装[Node.js](https://nodejs.org/)），建议使用`cnpm`安装依赖的模块
 ```js
@@ -47,7 +48,7 @@ npm install
 ```js
 npm run dev
 ```
-## Other
+# Other
 
 使用方法为前后冒号包围表情代号的句法。
 
