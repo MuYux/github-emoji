@@ -1,5 +1,6 @@
 <div align="center">
-<p><img width="150" src="https://avatars2.githubusercontent.com/u/17243165"></p>
+<!--<p><img width="150" src="https://avatars2.githubusercontent.com/u/17243165"></p>-->
+<p><img src="demo2.gif"></p>
 
 <h1>Github Emoji</h1>
 
